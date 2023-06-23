@@ -54,6 +54,7 @@ Além disso, o tratamento especial dos dados do período de COVID-19, por meio d
 Ao ajustar os parâmetros dos modelos, como o número de estimadores na Random Forest e a configuração da camada Dense na RNN, conseguimos melhorar ainda mais a precisão das previsões. Esses ajustes permitiram que os modelos se adaptassem melhor ao conjunto de dados e capturassem relações mais complexas entre as variáveis.
 Nessa análise, pudemos concluir que a melhor opção para esse caso foi usar Redes Neurais Recorrentes, com o set de parâmetros definidos. Ela teve um resultado mais aderente à realidade do que os demais testes de Random Forest.
 As descobertas e insights obtidos neste estudo têm o potencial de fornecer orientações valiosas para varejistas, permitindo uma melhor compreensão das tendências de vendas e o desenvolvimento de estratégias mais eficazes. Ao compartilhar esses resultados, esperamos contribuir para o avanço do campo da previsão de vendas no varejo, promovendo uma tomada de decisão mais embasada e um planejamento mais eficiente no setor varejista em constante evolução.
+
 ---
 
 Matrícula: 211.101.165
